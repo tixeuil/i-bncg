@@ -1,1 +1,1 @@
-Code and results for the undirected case
+Code for the undirected case
